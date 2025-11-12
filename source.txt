@@ -11,3 +11,5 @@ This "Mikasa" Conky Theme was inspired by and drew conceptual ideas from the fol
    - Reason for inspiration: The specific aesthetic style of the large digital clock and system information display style.
 
 Thank you to the original creators for the inspiration.
+
+My GitHub repository Link for this:  https://github.com/sohayelmahmud/Mikasa

@@ -54,6 +54,7 @@ If the theme's position does not perfectly align with your desktop, you can easi
 ### **Thank You!**
 
 Thank you for downloading the Mikasa theme! We hope you enjoy this blend of information and design on your desktop.
+* Check my github repository for further updates: [GitHub Repository](https://github.com/yourusername/Mikasa)
 
 ---
 
