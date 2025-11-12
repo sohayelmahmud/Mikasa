@@ -48,6 +48,7 @@ If the theme's position does not perfectly align with your desktop, you can easi
 * Look for the `Window Settings` section.
 * Adjust the horizontal position using `gap_x` (negative values move it left, positive move it right).
 * Adjust the vertical position using `gap_y` (negative values move it up, positive move it down).
+* Open the main file, I commented for everything so you can find the relevant sections easily. If you want to change colors, fonts, sizes, or any other settings, feel free to modify the relevant sections. Like if you don't want to see HD & RAM usage, just comment that part out.
 
 ---
 
